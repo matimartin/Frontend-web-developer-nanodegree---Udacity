@@ -1,6 +1,10 @@
+# Udacity - Nanodegree Program - Front-End Web Developer Nanodegree
+# Repository for Udacity's Frontend Nanodegre
 # Frontend-web-developer-nanodegree---Udacity
-Repository for Udacity's Frontend Nanodegre
-# Frontend-web-developer-nanodegree---Udacity
+
+Master the skills required to become a Front-End Web Developer, and start building beautiful, responsive websites optimized for mobile and desktop performance.
+
+Learn the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
 
 ### About
 This repository contains project work for Udacity's [Front-End Web Developer Nanodegree](https://www.udacity.com/course/nd001]
